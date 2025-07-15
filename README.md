@@ -3,7 +3,6 @@ A practical data analysis project using SQLite and Jupyter Notebook to explore T
 
 
 ## 🎬 The Movie Database (TMDb) Analysis Project
----
 Welcome to my TMDb Movie & TV Show Database Analysis Project - developed as part of my **ALX Data Science class**.
 
 This project explores The Movie Database (TMDb) - an online, crowd-sourced movie and TV show database that provides detailed information about some of the world’s most popular titles at your fingertips. The TMDb platform supports 39 official languages, is used in over 180 countries daily, and dates back to 2008.
