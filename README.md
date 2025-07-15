@@ -30,7 +30,7 @@ Integrate SQL with Jupyter Notebook for easy, interactive data exploration
 **Magic commands** — a feature of the IPython kernel that let you run useful shortcuts or system tasks inside Python code cells
 
 ## 🚀 Why This Project Matters
-This project is a practical example of combining SQL, SQLite, and Jupyter Notebook for movie data exploration — ideal for beginner to intermediate data analysts, aspiring data scientists, or anyone curious about the entertainment industry.
+This project is a practical example of combining SQL, SQLite, and Jupyter Notebook for movie data exploration ideal for beginner to intermediate data analysts, aspiring data scientists, or anyone curious about the entertainment industry.
 
 ## 📜 License
 This project is for educational purposes only. TMDb data belongs to *[The Movie Database (TMDb)](https://www.themoviedb.org/)*.
